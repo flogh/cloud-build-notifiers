@@ -1,3 +1,8 @@
+# Fork
+
+This is a fork of the official cloud build notifiers repo. 
+The intent is to update the smtp image to update the email subject to show trigger + status directly.
+
 # Cloud Build Notifiers
 
 This repo provides deployable notifier images and sources, as well as libraries
